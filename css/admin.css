@@ -1,0 +1,35 @@
+.lcih_admin_table th
+{
+    text-align: left;
+    vertical-align: top;
+    padding-top: 5px;
+}
+
+.mi-msg
+{
+    margin: 10px 0;
+}
+
+.lcih_progress
+{
+    float: left;
+    height: 18px;
+    background: url(../img/progressbar.gif);
+    color: #000;
+    white-space: nowrap;
+    box-sizing: border-box;
+    padding-left: 5px;
+    line-height: 18px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
+    font-weight: bold;
+}
+
+.lcih_progress_wrap
+{
+    height: 18px;
+}
+
+.toplevel_page_large-csv-import-handler .wp-menu-image img
+{
+    padding-top: 3px !important;
+}
